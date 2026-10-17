@@ -13,27 +13,18 @@ Acredito que tecnologia deve gerar valor real. Por isso, valorizo arquitetura be
 ## Tecnologias
 
 ### Frontend
-* Html
-* Css
-* Javascript
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
+ ![My
+Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap)
 
 ### Backend
 
-* Node.js
-* Express.js
-* Php
-* PostgreSQL
-* MongoDB
+ ![My
+Skills](https://skillicons.dev/icons?i=nodejs,expressjs,php,postgres,mongo)
 
 ### DevOps e Ferramentas
+![My
+Skills](https://skillicons.dev/icons?i=docker,git,aws,github,vscode,figma)
 
-* Docker
-* Git
-* AWS
 
 ## No Que Estou Trabalhando
 
