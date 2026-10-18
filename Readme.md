@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/198670596?v=4" />
 # Fernando Rodrigues
 
 **Desenvolvedor Full Stack · Construindo soluções robustas da interface à infraestrutura**
