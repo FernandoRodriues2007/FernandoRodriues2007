@@ -18,7 +18,7 @@ Acredito que tecnologia deve gerar valor real. Por isso, valorizo arquitetura be
 
 ### Frontend
  ![My
-Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap)
+Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap)
 
 ### Backend
 
