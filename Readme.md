@@ -1,4 +1,7 @@
-<img src="https://avatars.githubusercontent.com/u/198670596?v=4" />
+<div style="border-radius: 50%;width:100%">
+  <img src="https://avatars.githubusercontent.com/u/198670596?v=4"
+       style="width: 90%; " />
+</div>
 # Fernando Rodrigues
 
 **Desenvolvedor Full Stack · Construindo soluções robustas da interface à infraestrutura**
