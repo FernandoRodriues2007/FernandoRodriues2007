@@ -1,6 +1,6 @@
 <div style="border-radius: 50%;width:100%">
   <img src="https://avatars.githubusercontent.com/u/198670596?v=4"
-       style="width: 90%; " />
+       style="width: 100%; " />
 </div>
 # Fernando Rodrigues
 
